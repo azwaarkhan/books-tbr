@@ -1,0 +1,26 @@
+.add-book-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh; 
+}
+
+.add-book-form {
+	width: 100%;
+	max-width: 1000px;
+}
+
+.form-group {
+	margin: 15px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+    color: #fff;
+}
